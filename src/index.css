@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --text-tiny: 1.5rem; 
+  --text-medium:2.5rem;
+  --text-large:5rem;
+  --font-display: "arabic-font"
+
+}
+
+@font-face {
+  font-family:"arabic-font";
+  src: url('./assets/fonts/El_Messiri/static/ElMessiri-Medium.ttf');
+  font-size: 500;
+
+}
+
+body {
+ background-color: #fefae0;
+
+
+
+ 
+
+}
+
+
+
